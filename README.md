@@ -15,8 +15,6 @@ Loan attributes (loan amount, interest rate, term)
 Loan status (approved, rejected, fully paid, defaulted)
 Repayment and performance indicators
 
-📁 Dataset Used
-
 📌 The dataset was cleaned and transformed before visualization to ensure accuracy and consistency.
 🔄 Data Preparation & Modeling
 Removed duplicates and handled missing values
@@ -32,11 +30,8 @@ Identification of high-risk loans and default patterns
 Comparison of fully paid vs defaulted loans
 Interactive filters for loan status, grade, purpose, and time period
 
-🖼 Dashboard Snapshot
 📊 Loan Analysis Dashboard Preview
-
-
-
+- <a href="https://github.com/hemagitofficial/Loan-analysis-dashboard/blob/main/loan%20analysis.PNG">🖼 Dashboard Snapshot </a>
 
 📌 Key Insights
 Identified borrower segments with higher default risk
